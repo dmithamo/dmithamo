@@ -1,5 +1,24 @@
 ##### :wave: Hi there, Mithamo here
 
+<p align="left">
+
+  <a href="#">
+    <img src="svg/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/go.svg" alt="go" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
+
 I build software for a living and for fun. If you corner me, I will admit that I do it more for the fun than for the living.
 
 ##### :hourglass_flowing_sand: Me at a Glance
