@@ -6,7 +6,7 @@ I build software for a living and for fun. If you corner me, I will admit that I
 
 - :construction_worker: I am currently working with a player in the IoT space as a web dev, building cool dashboards that help manage telemetry data.
 
-- :books: I am learning _Go_ and _Angular_, looking to diversify my competencies as a web developer.
+- :books: I am learning _Go_ and _Angular_, looking to diversify my competencies as a software engineer.
 
 - :duck: I am looking to collaborate on a tool than utilises _Go_, especially one that heavily makes use of _Go's_ concurrency model. This to wrap me head around those `go routines` and `channels` _Go_'s known for.
 
