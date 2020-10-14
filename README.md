@@ -6,5 +6,5 @@ I build software for a living and for fun. If you corner me, I will admit that I
 
 - :construction_worker: I am currently working with a player in the IoT space as a web dev, building cool dashboards that help manage telemetry data.
 
-- :books: I am learning _Go_ and _Angular_, looking to diversify my competencies as a software engineer.
+- :books: I am learning Go and PHP, looking to diversify my competencies as a software engineer.
 
