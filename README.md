@@ -1,6 +1,7 @@
 ##### :wave: Hi there, Mithamo here
 
-I build software for a living and for fun. If you corner me, I will admit that I do it more for the fun than for the living.
+- I build software for a living and for fun.
+- I have been at it for just about two years now.
 
 ##### :hourglass_flowing_sand: Me at a Glance
 
