@@ -12,6 +12,7 @@
 
 
 - :books: I am learning Go, looking to diversify my competencies as a software engineer.
+- :books: I am also learning Flutter and Dart, again looking to diversify my competencies as a software engineer.
 
 - :computer: I am always on the look out for new opportunities, with a bias towards web dev oppportunities (fullstack web).
 
