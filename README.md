@@ -1,7 +1,7 @@
 ##### :wave: Hi there, Mithamo here
 
 - I build software for a living and for fun.
-- I have been at it for close to three years now.
+- I have been at it since 2018.
 
 ##### :hourglass_flowing_sand: Me at a Glance
 
