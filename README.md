@@ -1,7 +1,7 @@
 ##### 👋🏾 Hi!
 
-- I am a full-stack software developer by profession, working with technologies like Go, Java, TypeScript, Angular, React, and Vue.
-- At present, I am working as a frontend developer with [Sportserve](https://sportserve.co), where I help create web dashboards (B2B) that help our customers assess their brand performance in the sports betting industry.
+- I am a software developer by profession, working with technologies like Go, TypeScript, Angular, React, and Vue.
+- At present, I am working as a frontend developer with [Sportserve](https://sportserve.co), where I help create web dashboards (B2B) that help our customers assess their brand's performance in the sports betting industry.
 - I have been with Sportserve since 2024, and a software developer since 2018.
 
 ##### ⏳ Me at a Glance
